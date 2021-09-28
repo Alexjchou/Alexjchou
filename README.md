@@ -4,12 +4,12 @@ A Journey began here to become a better Data & Analytics Professional ......
 				▫ Delta Lake Architecture
 				▫ Lambda Architecture
 				▫ User Cases
-					® Unified Data Platform (Commercial Real Estate)
+					® Unified Data Platform in Microsoft Azure (Commercial Real Estate)
 					® Customer-Centric Analytics Layer (Financial Industry)
 						◊ Holding
 						◊ Profitability
 						◊ Demographic
-						◊ Segment
+						◊ Segmentation
 					® Sales-Centric Analytics Layer (Financial Industry)
 						◊ Sales Performance & Productivity
 						◊ Sales Incentive
