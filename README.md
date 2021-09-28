@@ -30,10 +30,10 @@ A Journey began here to become a better Data & Analytics Professional ......
 					® KYC Client360 Analytics
 				
 			§ Predictive Analytics - Machine Learning Applications
-				▫ Data Preparation
-				▫ Feature Engineering
-				▫ Algorithms
-				▫ Model Valuations
+				▫ Data Preparation (SAS, Python & R)
+				▫ Feature Engineering (SAS, Python & R)
+				▫ Algorithms (Python & R)
+				▫ Model Valuations (Python & R)
 				▫ Model Deployment
 				▫ User Cases
 					® Product Propensity Analysis
