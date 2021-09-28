@@ -11,6 +11,9 @@ A Journey began here to become a better Data & Analytics Professional ......
 						◊ Demographic
 						◊ Segment
 					® Sales-Centric Analytics Layer (Financial Industry)
+						◊ Sales Performance & Productivity
+						◊ Sales Incentive
+						◊ P&L
 					® Common Modelling Analytics Layer (Financial Industry)
 				
 			§ Descriptive Analytics & Diagnostic Analytics - Data Visualization
