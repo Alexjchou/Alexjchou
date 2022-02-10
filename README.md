@@ -1,11 +1,12 @@
-![data-analytics-PI009__FocusFillWzE5MjAsODQ5LCJ5IiwxNTJd](https://github.com/Alexjchou/)
+![data-analytics-PI009__FocusFillWzE5MjAsODQ5LCJ5IiwxNTJd](https://user-images.githubusercontent.com/23344558/153456352-73c4eb68-1e3e-4a80-8120-587cdee42208.jpg)
 # Data & Analytics Professional Journey:
-- 12 Years Data Analytics Experiences in Banking Industry; 1 Year Data Management Experience in CRE Industry.
-![image](https://user-images.githubusercontent.com/23344558/153454932-06636f5a-f6f6-4a4d-84fc-e4f3cfd7fc0b.png)
-
+- [12 Years Data Analytics Experiences in Banking Industry; 1 Year Data Management Experience in CRE Industry.](https://github.com/Alexjchou/)
 
 ### Data Management & Analytic Architecture
-- 
+```
+Capability in Translating business logic into data requirement, Discovering Enterprise Data Asset, Building Data Lineage Between Sources Application System to Analytical Data Models; Designing Efficient Analytical Architecture to fulfill business's need.
+```
+
 [Customer-Centric Analytic Architecture](https://github.com/Alexjchou/)
 [Sales-Centric Analytic Architecture](https://github.com/Alexjchou/)
 [Common Reporting Layer](https://github.com/Alexjchou/)
