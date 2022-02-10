@@ -1,10 +1,11 @@
 ![data-analytics-PI009__FocusFillWzE5MjAsODQ5LCJ5IiwxNTJd](https://user-images.githubusercontent.com/23344558/153456352-73c4eb68-1e3e-4a80-8120-587cdee42208.jpg)
 # Data & Analytics Professional Journey:
-> [Data and Analytics Professional with 12 Years multi-geographic working experiences cross Banking Industry and Commercial Real Estate Industry, with 4 key data analytics capabilities to provide faster data-driven decision making and drive analytical revenue.]((https://github.com/Alexjchou/))
+> [Data and Analytics Professional with 12 Years multi-geographic working experiences cross Banking Industry and Commercial Real Estate Industry, with 4 key data analytics capabilities to provide faster data-driven decision making and drive analytical revenue.](https://github.com/Alexjchou/)
 - ***Expertise in building Enterprise Data Foundation with Data Management & Analytics Architecture***
 - ***Expertise in providing Business Analytics and Business Intelligence (BI) Solutions and Data Visualization for Descriptive Analytic***
 - ***Experience in building Machine Learning models to support the product propensity initiatives, customers clustering for products and services personalization***
-- ***Well versed with Customer life-cycle management framework, experienced in ***recognizing customer profitability***, partnership with CRM to design personalized campaigns leads and lifetime event triggers strategies***
+- ***Well versed with Customer life-cycle management framework, experienced in recognizing customer profitability, partnership with CRM to design personalized campaigns leads and lifetime event triggers strategies***
+- ***Passionate Driving [Business Direct Impact](https://github.com/Alexjchou/) and [Indirect Influence](https://github.com/Alexjchou/)***
 
 ### Data Management & Analytic Architecture
 > Capability in Translating business logic into data requirement, Discovering Enterprise Data Asset, Building Data Lineage Between Sources Application System to Analytical Data  Models; Designing Efficient Analytical Architecture to fulfill business's need.
