@@ -1,6 +1,6 @@
 # Data & Analytics Professional Journey:
 ### Data Management & Analytic Architecture
-[##### Customer-Centric Analytic Architecture](https://www.google.com)
+[Customer-Centric Analytic Architecture](https://www.google.com)
 ##### Sales-Centric Analytic Architecture
 ##### Common Reporting Layer
 ##### Unified Data Platform on Cloud
