@@ -14,6 +14,9 @@
 - [Unified Data Platform on Cloud](https://github.com/Alexjchou/)
 
 ### Business Analytics & BI Solutions
+> [OBJECTIVES] BUSINESS ANALYTICS - Business analytics (BA) is the iterative exploration of an organization’s data, with a focus on applying statistical analysis techniques to reveal information that can help drive innovation and financial performance.
+> [APPROACHES] BUSINESS INTELLIGENCE (BI) is the collection of processes, technologies, skills, and applications used to make informed, data-driven business decisions. BI includes data collection, data aggregation, analysis, and meaningful presentation that facilitates decision-making.
+
 ##### Sales Analytics
 ##### Marketing ROI Analytics
 ##### Product Analytics
