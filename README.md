@@ -5,10 +5,10 @@
 ### Data Management & Analytic Architecture
 > Capability in Translating business logic into data requirement, Discovering Enterprise Data Asset, Building Data Lineage Between Sources Application System to Analytical Data  Models; Designing Efficient Analytical Architecture to fulfill business's need.
 
-##### [Customer-Centric Analytic Architecture](https://github.com/Alexjchou/)
-##### [Sales-Centric Analytic Architecture](https://github.com/Alexjchou/)
-##### [Common Reporting Layer](https://github.com/Alexjchou/)
-##### [Unified Data Platform on Cloud](https://github.com/Alexjchou/)
+>> [Customer-Centric Analytic Architecture](https://github.com/Alexjchou/)
+>> [Sales-Centric Analytic Architecture](https://github.com/Alexjchou/)
+>> [Common Reporting Layer](https://github.com/Alexjchou/)
+>> [Unified Data Platform on Cloud](https://github.com/Alexjchou/)
 
 ### Business Analytics & BI Solutions
 ##### Sales Analytics
