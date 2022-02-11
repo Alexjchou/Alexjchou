@@ -1,4 +1,4 @@
-# Data & Analytic To Drive Direct Business Impacts
+# Data & Analytic To Drive Business Influence
 > It's important for Data & Analytics Function to have clear roadmap how to directly drive the business outputs, especially in those 6 areas:
 >> 1. Gain the Market Share
 >> 2. Grow the Business and Revenue
