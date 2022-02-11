@@ -23,7 +23,7 @@
 - [Product Analytics](https://github.com/Alexjchou/)
 - [Customer Analytics](https://github.com/Alexjchou/)
 
-### Preditive Analytics & Machine Learning
+### Predictive Analytics & Machine Learning
 > MACHINE LEARNING is a computer programming technique that uses statistical probabilities to give computers the ability to “learn” without being explicitly programmed. In essence, machine learning is getting computers to learn—and therefore act—they way humans do, improving their learning and knowledge over time autonomously. The idea is to get computers to act without being explicitly programmed. Machine learning utilizes development programs that can adjust when exposed to different external inputs.
 - [Product Propensity Model](https://github.com/Alexjchou/)
 - [Customer Clustering](https://github.com/Alexjchou/)
