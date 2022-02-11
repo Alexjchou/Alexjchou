@@ -8,4 +8,4 @@
 >> 6. Provision Actionable Insights
 
 # Below are some Key Data & Analytics Initiatives that driving businesss direct impact
-![image](https://user-images.githubusercontent.com/23344558/153519379-3b5fd456-0b49-40ef-97b1-5a2108535ddb.png)
+![image](https://user-images.githubusercontent.com/23344558/153519633-3cfcf5ef-cd0c-449f-8af9-cd22653ab32a.png)
