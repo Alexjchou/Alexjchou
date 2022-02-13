@@ -34,6 +34,9 @@
 - [Analytics Revenue Recognition](https://github.com/Alexjchou/)
 
 # Skillsets
+### Cloud Data & Analytic Platforms
+- [Databricks](https://github.com/Alexjchou/)
+
 ### Analytic Programming Languages
 - [Python](https://github.com/Alexjchou/)
 - [Pyspark](https://github.com/Alexjchou/)
@@ -45,3 +48,6 @@
 - [Tableau](https://github.com/Alexjchou/)
 - [Qlik Sense](https://github.com/Alexjchou/)
 
+### Automation 
+- [Control-M](https://github.com/Alexjchou/)
+- [UiPath](https://github.com/Alexjchou/)
