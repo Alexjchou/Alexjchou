@@ -33,5 +33,15 @@
 - [Customer Profitability Model](https://github.com/Alexjchou/)
 - [Analytics Revenue Recognition](https://github.com/Alexjchou/)
 
+# Skillsets
+### Analytic Programming Languages
+- [Python](https://github.com/Alexjchou/)
+- [Pyspark](https://github.com/Alexjchou/)
+- [SAS](https://github.com/Alexjchou/)
+- [R](https://github.com/Alexjchou/)
+- [SQL](https://github.com/Alexjchou/)
 
+### Data Visualization Tools
+- [Tableau](https://github.com/Alexjchou/)
+- [Qlik Sense](https://github.com/Alexjchou/)
 
