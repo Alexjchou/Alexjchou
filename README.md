@@ -48,6 +48,6 @@
 - [Tableau](https://github.com/Alexjchou/)
 - [Qlik Sense](https://github.com/Alexjchou/)
 
-### Automation 
+### Automation Sofewares
 - [Control-M](https://github.com/Alexjchou/)
 - [UiPath](https://github.com/Alexjchou/)
