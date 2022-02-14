@@ -41,6 +41,7 @@
 - [SQL](https://github.com/Alexjchou/)
 
 ### Cloud Data & Analytic Platforms
+- [Microsoft Azure](https://github.com/Alexjchou/)
 - [Databricks](https://github.com/Alexjchou/)
 - [Pyspark](https://github.com/Alexjchou/)
 
