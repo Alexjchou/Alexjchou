@@ -52,6 +52,6 @@
 ### Project Collaboration Tools
 - [Microsoft Azure DevOps](https://github.com/Alexjchou/)
 
-### Automation Sofewares
+### Automation Softwares
 - [Control-M](https://github.com/Alexjchou/)
 - [UiPath](https://github.com/Alexjchou/)
