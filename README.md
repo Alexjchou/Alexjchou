@@ -33,7 +33,7 @@
 - [Customer Profitability Model](https://github.com/Alexjchou/)
 - [Analytics Revenue Recognition](https://github.com/Alexjchou/)
 
-# Skillsets
+# Techical Stack
 ### Analytic Programming Languages
 - [Python](https://github.com/Alexjchou/)
 - [SAS](https://github.com/Alexjchou/)
