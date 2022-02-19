@@ -4,7 +4,7 @@
 - ***Expertise in building Enterprise Data Foundation with `Data Management & Analytics Architecture`***
 - ***Expertise in providing `Business Analytics and Business Intelligence (BI) Solutions` and Data Visualization for Descriptive Analytic***
 - ***Experience in building `Machine Learning models` to support the product propensity initiatives, customers clustering for products and services personalization***
-- ***Well versed with Customer life-cycle management framework, experienced in `recognizing customer profitability`, partnership with CRM to design personalized campaigns leads and lifetime event triggers strategies***
+- ***Well versed with Customer life-cycle management framework, experienced in `recognizing customer profitability`, partnership with CRM to design `data-driven CRM Strategies`  via delivering personalized campaigns leads and lifetime event triggers strategies***
 - ***Passionate Driving [Direct Business Impact](https://github.com/Alexjchou/Alexjchou/blob/main/Data%20%26%20Analytics%20To%20Business%20Direct%20Impact.md) and [Indirect Influence](https://github.com/Alexjchou/Alexjchou/blob/main/Data%20%26%20Analytics%20To%20Business%20Influences.md) leveraging Data & Analytics Advanced Technologies.***
 
 ### Data Management & Analytic Architecture
