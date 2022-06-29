@@ -49,8 +49,9 @@
 - [Tableau](https://github.com/Alexjchou/)
 - [Qlik Sense](https://github.com/Alexjchou/)
 
-### Project Collaboration Tools
+### CI/CD
 - [Microsoft Azure DevOps](https://github.com/Alexjchou/)
+- [Octopus](https://github.com/Alexjchou/)
 
 ### Automation Softwares
 - [Control-M](https://github.com/Alexjchou/)
